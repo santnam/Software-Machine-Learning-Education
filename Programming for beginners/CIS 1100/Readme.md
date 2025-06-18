@@ -2,7 +2,7 @@ My goal is to complete all the homework assignment, projects and quizzes posted 
 
 https://www.seas.upenn.edu/~cis110/current/py/syllabus.html
 
-
+This course is made up of check-in assigments, programming projects, midterm exams, final exam. 
 
 
 
